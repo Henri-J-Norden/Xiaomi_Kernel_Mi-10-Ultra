@@ -1,0 +1,4 @@
+[submodule "modules/ASOP-gcc-aarch64-linux-android"]
+	path = modules/ASOP-gcc-aarch64-linux-android
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	branch = ndk-release-r21
